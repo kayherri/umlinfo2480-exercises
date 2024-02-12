@@ -8,5 +8,6 @@
         <li class="navitem"><a href="#cgi.SCRIPT_NAME#?p=myArray">Arrays</a></li>
         <li class="navitem"><a href="#cgi.SCRIPT_NAME#?p=myForm">Form</a></li>
         <li class="navitem"><a href="#cgi.SCRIPT_NAME#?p=MathFunction">Functions</a></li>
+        <li class="navitem"><a href="#cgi.SCRIPT_NAME#?p=Component">Component</a></li>
 
 </cfoutput>
